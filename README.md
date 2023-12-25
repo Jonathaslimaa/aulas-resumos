@@ -4,3 +4,6 @@ Repositorio para armazenar resumos sobre Git e Github do curso sobre versionamen
 
 ## 📚Documentação. 
 - [Documentação git](https://git-scm.com/doc)
+
+## 💻 Resumos das Aulas
+Aula 01 | Aula 02
